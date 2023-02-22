@@ -24,8 +24,8 @@ const Home = () => {
               proficiency in technologies such as Angular, .NET Framework, .NET
               Core, React, SQL, Azure and Git, I am well-equipped to tackle any
               development challenge.
-            </span><br/>
-            <span className="mt-5 ">
+            </span>
+            <span className="block mt-3">
               I am a hands-on developer who values practical experience over
               theory. I am constantly experimenting and exploring new
               technologies in my spare time, as evidenced by my{" "}
