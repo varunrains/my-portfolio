@@ -10,8 +10,8 @@ const About = () => {
         
         <div className='text-xl mt-20 '>
           <span>1. Strong knowledge of C# and .NET/.NET Core, including familiarity with popular frameworks such as ASP.NET and Entity Framework.</span>
-         <br/><span>2. Experience building APIs and working with popular API tools such as Swagger.</span>
-         <br/><span>3. <a className='underline cursor-pointer font-semibold' href="https://www.credly.com/badges/7649a412-5732-4159-86f7-b9a1435fc8bb" target="_blank" rel="noreferrer">Microsoft certified Azure Solutions Architect </a>. Have earned certifications in <a className='underline cursor-pointer font-semibold' href="https://www.credly.com/badges/dabc34f8-71fa-43d3-a2df-00a669073903" target="_blank" rel="noreferrer"> AZ-104</a>  and  <a className='underline cursor-pointer font-semibold' href="https://www.credly.com/badges/b5dc6986-83a1-4f85-a298-790d43af1480" target="_blank" rel="noreferrer">AZ-305</a>.</span>
+         <br/><span>2. Experience building APIs with C# ,GO Lang and working with popular API tools such as Swagger.</span>
+         <br/><span>3. <a className='underline cursor-pointer font-semibold' href="https://www.credly.com/badges/7649a412-5732-4159-86f7-b9a1435fc8bb" target="_blank" rel="noreferrer">Microsoft certified Azure Solutions Architect. </a>. Have earned certifications in <a className='underline cursor-pointer font-semibold' href="https://www.credly.com/badges/dabc34f8-71fa-43d3-a2df-00a669073903" target="_blank" rel="noreferrer"> AZ-104</a>  and  <a className='underline cursor-pointer font-semibold' href="https://www.credly.com/badges/b5dc6986-83a1-4f85-a298-790d43af1480" target="_blank" rel="noreferrer">AZ-305</a>.</span>
          <br/><span>4. Insights in Azure architecture design, including knowledge of cloud design patterns and practices.</span>
          <br/><span>5. Proficiency in HTML, CSS and JavaScript, as well as TypeScript for Angular and JSX for React.</span>
          <br/><span>6. Understanding of front-end design patterns and techniques, such as component-based architecture and state management.</span>

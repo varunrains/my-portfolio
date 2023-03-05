@@ -12,6 +12,7 @@ import csharp from '../assets/experience/csharp.png'
 import docker from '../assets/experience/docker.png';
 import sql from '../assets/experience/sql.png';
 import angular from '../assets/experience/angular.png';
+import golang from '../assets/experience/golang1.png';
 
 const Technologies = () => {
     const techs = [
@@ -32,6 +33,12 @@ const Technologies = () => {
         src: azure,
         title: "Microsoft Azure",
         style: "shadow-sky-600",
+      },
+      {
+        id: 31,
+        src: golang,
+        title: "GO",
+        style: "shadow-cyan-600",
       },
       {
         id: 40,
