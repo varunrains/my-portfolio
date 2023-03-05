@@ -22,7 +22,7 @@ const Home = () => {
             <span>
               With a diverse range of project experience and a strong
               proficiency in technologies such as Angular, .NET Framework, .NET
-              Core, React, SQL, Azure and Git, I am well-equipped to tackle any
+              Core, GO, React, SQL, Azure and Git, I am well-equipped to tackle any
               development challenge.
             </span>
             <span className="block mt-3">
